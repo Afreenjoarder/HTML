@@ -2,12 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6bfcb65e-c1e8-4b7e-964f-3d5f3f025395" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_Size_Attributes.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_alt_Attribute.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_href_Attribute.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_title_Attribute.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HTML_Attributes.html" afterPath="$PROJECT_DIR$/HTML_lang_Attributes.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HTML_Elements.html" afterPath="$PROJECT_DIR$/HTML_Elements.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Animated Images.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CSS text-align.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML &lt;head&gt; Element.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML &lt;pre&gt; Element.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML &lt;title&gt; Element.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML Headings.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML Table Headings.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML Table With a Caption.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML Table with Cell Padding.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_Display.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_Horizontal _Rules.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_Images.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_Line_Breaks.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_Paragraphs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_Table _with_Collapsed_Borders.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_Table_with_Border_Spacing.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_Table_with_a_Border_Attribute.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_Tables.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_links.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Iframe - Remove the Border.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images in Another Folder.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Images on Another Server.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Table Cells that Span Many Columns.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Table Cells that Span Many Rows.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/The Poem Problem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_Colors_and _cons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_Imag_as_a_Link.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_Image_Floating.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_Image_Size.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_Local_Links.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_Width_and_Height_or _Style.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_css_border.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_images_map.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html_targe_ Attribute.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/iframe as a Target for a Link.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/iframe_set_Height and Width.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HTML.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,28 +63,92 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="HTML_Elements.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HTML_Elements.html">
+      <file leaf-file-name="HTML Table with Cell Padding.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HTML Table with Cell Padding.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
-              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-              <folding />
+            <state vertical-scroll-proportion="-15.5" vertical-offset="213" max-vertical-offset="675">
+              <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="html_title_Attribute.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html_title_Attribute.html">
+      <file leaf-file-name="HTML Table Headings.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HTML Table Headings.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="390">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding />
+            <state vertical-scroll-proportion="-15.5" vertical-offset="258" max-vertical-offset="720">
+              <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="html_href_Attribute.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html_href_Attribute.html">
+      <file leaf-file-name="CSS text-align.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CSS text-align.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-15.5" vertical-offset="303" max-vertical-offset="765">
+              <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HTML_Table_with_Border_Spacing.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HTML_Table_with_Border_Spacing.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-15.5" vertical-offset="213" max-vertical-offset="675">
+              <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Table Cells that Span Many Columns.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Table Cells that Span Many Columns.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-15.5" vertical-offset="123" max-vertical-offset="585">
+              <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Table Cells that Span Many Rows.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Table Cells that Span Many Rows.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-15.5" vertical-offset="153" max-vertical-offset="615">
+              <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HTML Table With a Caption.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HTML Table With a Caption.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-15.5" vertical-offset="168" max-vertical-offset="645">
+              <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="iframe_set_Height and Width.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/iframe_set_Height and Width.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="210">
               <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
@@ -62,8 +157,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="html_Size_Attributes.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html_Size_Attributes.html">
+      <file leaf-file-name="Iframe - Remove the Border.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Iframe - Remove the Border.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="210">
               <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
@@ -72,20 +167,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="html_alt_Attribute.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/html_alt_Attribute.html">
+      <file leaf-file-name="iframe as a Target for a Link.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/iframe as a Target for a Link.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="402">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HTML_lang_Attributes.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HTML_lang_Attributes.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="225">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -106,6 +191,42 @@
         <option value="$PROJECT_DIR$/html_href_Attribute.html" />
         <option value="$PROJECT_DIR$/html_Size_Attributes.html" />
         <option value="$PROJECT_DIR$/html_alt_Attribute.html" />
+        <option value="$PROJECT_DIR$/HTML Headings.html" />
+        <option value="$PROJECT_DIR$/HTML_Horizontal _Rules.html" />
+        <option value="$PROJECT_DIR$/HTML &lt;head&gt; Element.html" />
+        <option value="$PROJECT_DIR$/HTML &lt;title&gt; Element.html" />
+        <option value="$PROJECT_DIR$/HTML_Paragraphs.html" />
+        <option value="$PROJECT_DIR$/HTML_Display.html" />
+        <option value="$PROJECT_DIR$/HTML_Line_Breaks.html" />
+        <option value="$PROJECT_DIR$/The Poem Problem.html" />
+        <option value="$PROJECT_DIR$/HTML &lt;pre&gt; Element.html" />
+        <option value="$PROJECT_DIR$/HTML_Images.html" />
+        <option value="$PROJECT_DIR$/html_Image_Size.html" />
+        <option value="$PROJECT_DIR$/html_Width_and_Height_or _Style.html" />
+        <option value="$PROJECT_DIR$/Images in Another Folder.html" />
+        <option value="$PROJECT_DIR$/Images on Another Server.html" />
+        <option value="$PROJECT_DIR$/Animated Images.html" />
+        <option value="$PROJECT_DIR$/html_Imag_as_a_Link.html" />
+        <option value="$PROJECT_DIR$/html_images_map.html" />
+        <option value="$PROJECT_DIR$/html_Image_Floating.html" />
+        <option value="$PROJECT_DIR$/HTML_links.html" />
+        <option value="$PROJECT_DIR$/html_Local_Links.html" />
+        <option value="$PROJECT_DIR$/html_Colors_and _cons.html" />
+        <option value="$PROJECT_DIR$/html_targe_ Attribute.html" />
+        <option value="$PROJECT_DIR$/HTML_Tables.html" />
+        <option value="$PROJECT_DIR$/HTML_Table_with_a_Border_Attribute.html" />
+        <option value="$PROJECT_DIR$/html_css_border.html" />
+        <option value="$PROJECT_DIR$/HTML_Table _with_Collapsed_Borders.html" />
+        <option value="$PROJECT_DIR$/HTML Table with Cell Padding.html" />
+        <option value="$PROJECT_DIR$/HTML Table Headings.html" />
+        <option value="$PROJECT_DIR$/CSS text-align.html" />
+        <option value="$PROJECT_DIR$/HTML_Table_with_Border_Spacing.html" />
+        <option value="$PROJECT_DIR$/Table Cells that Span Many Columns.html" />
+        <option value="$PROJECT_DIR$/Table Cells that Span Many Rows.html" />
+        <option value="$PROJECT_DIR$/HTML Table With a Caption.html" />
+        <option value="$PROJECT_DIR$/iframe_set_Height and Width.html" />
+        <option value="$PROJECT_DIR$/Iframe - Remove the Border.html" />
+        <option value="$PROJECT_DIR$/iframe as a Target for a Link.html" />
       </list>
     </option>
   </component>
@@ -289,6 +410,334 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/html_alt_Attribute.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="210">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML Headings.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.125" vertical-offset="0" max-vertical-offset="285">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML_Horizontal _Rules.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="300">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML &lt;head&gt; Element.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="330">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML &lt;title&gt; Element.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.625" vertical-offset="0" max-vertical-offset="345">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML_Paragraphs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML_Display.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.5" vertical-offset="18" max-vertical-offset="480">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML_Line_Breaks.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="210">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/The Poem Problem.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="390">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML &lt;pre&gt; Element.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="360">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML_Images.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="210">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_Image_Size.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="210">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_Width_and_Height_or _Style.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="375">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Images in Another Folder.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="270">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Images on Another Server.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="210">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Animated Images.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="270">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_Imag_as_a_Link.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="315">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_images_map.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="330">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_Image_Floating.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="360">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML_links.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_Local_Links.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.75" vertical-offset="0" max-vertical-offset="300">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_Colors_and _cons.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.5" vertical-offset="168" max-vertical-offset="630">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_targe_ Attribute.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="225">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML_Tables.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.0" vertical-offset="0" max-vertical-offset="450">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML_Table_with_a_Border_Attribute.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.0" vertical-offset="0" max-vertical-offset="450">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_css_border.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.5" vertical-offset="123" max-vertical-offset="585">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML_Table _with_Collapsed_Borders.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.375" vertical-offset="123" max-vertical-offset="630">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML Table with Cell Padding.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.5" vertical-offset="213" max-vertical-offset="675">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML Table Headings.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.5" vertical-offset="258" max-vertical-offset="720">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS text-align.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.5" vertical-offset="303" max-vertical-offset="765">
+          <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML_Table_with_Border_Spacing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.5" vertical-offset="213" max-vertical-offset="675">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Table Cells that Span Many Columns.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.5" vertical-offset="123" max-vertical-offset="585">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Table Cells that Span Many Rows.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.5" vertical-offset="153" max-vertical-offset="615">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML Table With a Caption.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.5" vertical-offset="168" max-vertical-offset="645">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iframe_set_Height and Width.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="210">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iframe - Remove the Border.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="210">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iframe as a Target for a Link.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="426">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
